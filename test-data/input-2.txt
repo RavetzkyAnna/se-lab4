@@ -1,0 +1,4 @@
+# Teszt: mindkét torpedó tüzel ALL módban
+GT4500,10,0,10,0
+TORPEDO,ALL
+EXIT
